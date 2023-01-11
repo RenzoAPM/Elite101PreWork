@@ -11,7 +11,9 @@ def generate_response(user_input):
     "You don't say!",
     "Very cool!",
     "That's Great!",
-    "Tell me more!"
+    "Tell me more!",
+    "Oh Wow!",
+    "That's crazy!"
   ]
   return random.choice(responses)
 
